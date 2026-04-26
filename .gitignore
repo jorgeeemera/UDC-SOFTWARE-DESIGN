@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Java & IntelliJ
+*.class
+.idea/
+*.iml
+out/
+build/
+gen/
+
+# Binarios y Ejecutables
+*.exe
+*.o
+*.out
+*.app
+*.so
+*.dylib
+a.out
+
+# IDEs
+.vscode/
